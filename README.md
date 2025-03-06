@@ -25,7 +25,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=linusnicolau&show_icons=true&theme=synthwave" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linusnicolau&theme=synthwave" height="180px">
 </div>
 
 ---
