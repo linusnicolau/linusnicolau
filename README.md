@@ -5,17 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+universo+de+c%C3%B3digo!;Full-Stack+Developer;Explorando+Next.js+y+mucho+m%C3%A1s...;Transformando+ideas+en+realidad!">
 </p>
 
----
-
-## 🚀 Sobre mí
-- 👀 Apasionado por el desarrollo **Full-Stack**  
-- 🚀 Profundizando en **Next.js** y tecnologías modernas   
-- 🛠️ Construyendo proyectos que combinan **creatividad + funcionalidad**  
-- 📩 **Contactame** → [linusnicolau@protonmail.com](mailto:linusnicolau@protonmail.com)  
-
----
-
-## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,nextjs,nodejs,postgres,git,tailwind,figma" />
 </p>
@@ -26,6 +15,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=linusnicolau&show_icons=true&theme=synthwave" height="180px">
 </div>
+
+---
+
+## 🚀 Sobre mí
+- 👀 Apasionado por el desarrollo **Full-Stack**  
+- 🚀 Profundizando en **Next.js** y tecnologías modernas   
+- 🛠️ Construyendo proyectos que combinan **creatividad + funcionalidad**  
+- 📩 **Contactame** → [linusnicolau@protonmail.com](mailto:linusnicolau@protonmail.com)  
 
 ---
 
